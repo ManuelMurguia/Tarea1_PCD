@@ -1,2 +1,2 @@
 # Tarea1_PCD
-Este repositorio contiene los archivos correspondientes a la primera tarea de la clase Proyecto de Ingeniería 2023
+Este repositorio contiene los archivos correspondientes a la primera tarea de la clase Proyecto de Ingeniería 2023. Dentro del repositorio podremos encontrar dos ramas. LA rama main que contiene solamente el archivo readme y, la rama feature-1 que contiene el jupyter donde se realizó la tarea 1 del semestre. Dicha tarea consistía en hacer un resumen de una página web (Link dentro del jupyter). Esta tarea se hizo con el fin de comprender un poco mejor lo visto en clase sobre el funcionamiento de git, github y gitkraken.
